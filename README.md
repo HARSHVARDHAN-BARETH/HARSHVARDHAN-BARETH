@@ -8,13 +8,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
-<style>
-    *{
-        margin: 0;
-        padding: 0;
-        font-family: 'Poppins', sans-serif;
-    }
-</style>
 <body>
     <h1 align="center">Hi 👋, I'm HARSHVARDHAN BARETH</h1>
     <h3 align="center">Hello! Great to see you here!</h3>
