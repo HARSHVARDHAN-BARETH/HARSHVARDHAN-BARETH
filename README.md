@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-</head>
-<body>
+
     <h1 align="center">Hi 👋, I'm HARSHVARDHAN BARETH</h1>
     <h3 align="center">Hello! Great to see you here!</h3>
     <img src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="">
@@ -31,5 +23,3 @@
     
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhan-bareth&" alt="harshvardhan-bareth" /></p>
     
-</body>
-</html>
