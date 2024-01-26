@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey! I'm HARSHVARDHAN BARETH
 🌱 I’m currently Learning DSA with C++<br>📫 How to reach me barethharshvardhan@gmail.com<br><br>
 
 
