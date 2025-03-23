@@ -1,4 +1,4 @@
-# 💫 Hey! I'm HARSHVARDHAN BARETH
+# 💫 Hey! I'm HARSHVARDHAN BARETH 
 **Software Developer** <br><br>🧑🏻‍💻 Computer Enthusiastic & a geek!<br><br>💡 Always open to collaborating on projects and innovative/disruptive ideas.<br><br>
 
 
