@@ -1,7 +1,7 @@
 # 💫 Hey! I'm HARSHVARDHAN BARETH 
 **Software Developer** <br><br>🧑🏻‍💻 Computer Enthusiastic & a geek!<br><br>💡 Always open to collaborating on projects and innovative/disruptive ideas.<br><br>
  
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshvardhan.bareth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshvardhanbareth) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/barethharshvardhan) 
 
